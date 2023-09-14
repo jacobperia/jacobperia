@@ -1,6 +1,6 @@
 ## What is this?
 
-This concept was introduced to me by Chris Young at [Harled Inc.](https://harled.ca/). In short, this document explains my working methodology and how I work collaboratively.
+This concept was introduced to me by Chris Young at [Harled Inc.](https://harled.ca/blog/why_we_value_human_user_guides). In short, this document explains my working methodology and how I work collaboratively.
 
 ## About Me
 
