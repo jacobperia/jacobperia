@@ -4,7 +4,7 @@ This concept was introduced to me by Chris Young at [Harled Inc.](https://harled
 
 ## About Me
 
-I live in Mississauga, ON, Canada with my wife. My like include experimenting with different cuisines, travelling and playing video games and my obsessions include cars and working out at the gym. 
+I live in Mississauga, ON, Canada with my wife and daughter. My likes include experimenting with different cuisines, travelling and playing video games and my obsessions include cars and working out. 
 
 I grew up with computers and have ever since been a slave to exploring software and also repairing and upgrading hardware.
 
@@ -47,6 +47,6 @@ When receiving feedback I'd love to receive the most detailed explanation possib
 
 ## Mentoring
 
-I personally have not been a mentor to anyone although I have helped my peers out on many ocassions. I would like to be a mentor someday in the hopes of molding a high quality developer.
+I have helped my peers out on many ocassions while working at Identity Square and Harled Inc. I would like to be more involved with mentorship in the hopes of molding more high quality developers.
 
 And on the other hand, I have not been mentored. Everything I learned was from research and trial and error with the ocassional assistance from more Senior Devs. Code reviews have really helped improve my code quality and convention.
