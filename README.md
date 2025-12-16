@@ -2,7 +2,7 @@
 
 ---
 
-My name is Jacob and I'm a Full Stack Developer from Mississauga, ON, Canada. I'm super passionate about writing and delivering high quality Ruby on Rails code and I've been involved by a variety of projects in a range of industries.
+My name is Jacob and I'm a Senior Full Stack Developer from Mississauga, ON, Canada. I'm super passionate about writing and delivering high quality Ruby on Rails code and I've been involved by a variety of projects in a range of industries.
 
 If you'd like to learn about me in more detail, refer to my [Human User Guide](https://github.com/jacobperia/jacobperia/blob/main/HUG.md)!
 
